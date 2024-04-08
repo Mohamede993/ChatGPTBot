@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ChatGPTBot/static/css/main.0a62645e.chunk.css",
+    "main.js": "/ChatGPTBot/static/js/main.825a0cce.chunk.js",
+    "main.js.map": "/ChatGPTBot/static/js/main.825a0cce.chunk.js.map",
+    "runtime~main.js": "/ChatGPTBot/static/js/runtime~main.fb1e0e5b.js",
+    "runtime~main.js.map": "/ChatGPTBot/static/js/runtime~main.fb1e0e5b.js.map",
+    "static/css/2.35424416.chunk.css": "/ChatGPTBot/static/css/2.35424416.chunk.css",
+    "static/js/2.59a9ebea.chunk.js": "/ChatGPTBot/static/js/2.59a9ebea.chunk.js",
+    "static/js/2.59a9ebea.chunk.js.map": "/ChatGPTBot/static/js/2.59a9ebea.chunk.js.map",
+    "static/js/3.69ba5426.chunk.js": "/ChatGPTBot/static/js/3.69ba5426.chunk.js",
+    "static/js/3.69ba5426.chunk.js.map": "/ChatGPTBot/static/js/3.69ba5426.chunk.js.map",
+    "index.html": "/ChatGPTBot/index.html",
+    "precache-manifest.aa83db1056482c0b213a4561e3b45d5d.js": "/ChatGPTBot/precache-manifest.aa83db1056482c0b213a4561e3b45d5d.js",
+    "service-worker.js": "/ChatGPTBot/service-worker.js",
+    "static/css/2.35424416.chunk.css.map": "/ChatGPTBot/static/css/2.35424416.chunk.css.map",
+    "static/css/main.0a62645e.chunk.css.map": "/ChatGPTBot/static/css/main.0a62645e.chunk.css.map"
+  }
+}
