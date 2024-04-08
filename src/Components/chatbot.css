@@ -1,0 +1,10 @@
+.mascont{
+    margin: 16px;
+    height: 60vh;
+    width: 50%;
+background-color:rgba(226, 222, 209, 0.5) ;
+margin:auto;
+border-radius: 16px;
+overflow: auto;
+
+}
